@@ -1,0 +1,16 @@
+{
+  "name": "sugar-rush-trainer",
+  "version": "1.0.0",
+  "description": "Training bot for Sugar Rush staff",
+  "main": "trainer.js",
+  "scripts": {
+    "start": "node trainer.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
